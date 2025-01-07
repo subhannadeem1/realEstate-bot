@@ -3,20 +3,20 @@ import { ArrowRight } from 'lucide-react'
 
 const exampleMessages = [
   {
-    heading: 'What is OpenAI o1?',
-    message: 'What is OpenAI o1?'
+    heading: 'Find properties for sale or rent',
+    message: 'Find properties for sale or rent'
   },
   {
-    heading: 'Why is Nvidia growing rapidly?',
-    message: 'Why is Nvidia growing rapidly?'
+    heading: 'Explore luxury apartments or villas',
+    message: 'Explore luxury apartments or villas'
   },
   {
-    heading: 'Tesla vs Rivian',
-    message: 'Tesla vs Rivian'
+    heading: 'Know about property prices in Portugal',
+    message: 'Know about property prices in Portugal'
   },
   {
-    heading: 'Summary: https://arxiv.org/pdf/2407.16833',
-    message: 'Summary: https://arxiv.org/pdf/2407.16833'
+    heading: 'Get advice on buying a home in Portugal',
+    message: 'Get advice on buying a home in Portugal'
   }
 ]
 export function EmptyScreen({
